@@ -43,7 +43,7 @@ header{
     max-height: 15em;
     background-size:cover;
     overflow:hidden;
-    background-image: url(../css/02-hero-bg.jpg);
+    background-image: url(../images/02-hero-bg.jpg);
   }
   
  
@@ -100,7 +100,7 @@ header{
   }
   
   .grid-item {
-    background-color: #28777a;
+    background-color: #2a797c;
     padding: 50px;
     text-align: center;
     font-size: x-large;
