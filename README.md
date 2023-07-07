@@ -29,7 +29,7 @@ Throughout my study so far I have managed to build the below challenge activitie
 - To access this protfolio website simply copy and paste the below url link into a web broaser, and the portfolio will show up. The portfolio is organized into different sections starting from About me to showcase my projects and finally the best way to contact me. If you have any enquiries regarding the website, please do not hesitate to contact me on the email provided.
 
 ## Demo
-- To view and interact with the website, please click on the URL link: https://djam88.github.io/djamels-portfolio/
+- To view and interact with the website, please follow the below URL link: https://djam88.github.io/djamels-portfolio/
 
 ## License
 - Open source licence.
