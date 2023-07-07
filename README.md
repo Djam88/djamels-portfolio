@@ -21,21 +21,21 @@ I am Djamel, a student at Birmingham university bootcamp. I have always fancied 
 ## Features
 
 Throughout my study so far I have managed to build the below challenge activities:
--Pre-work activity
--Refractoring Horesion website with semantic html
--Creating my portfolio 
+- Pre-work activity
+- Refractoring Horesion website with semantic html
+- Creating my portfolio 
 
 ## Usage
 - To access this protfolio website simply copy and paste the below url link into a web broaser, and the portfolio will show up. The portfolio is organized into different sections starting from About me to showcase my projects and finally the best way to contact me. If you have any enquiries regarding the website, please do not hesitate to contact me on the email provided.
 
 ## Demo
-- If available, provide a link to a live demo or deployment of your portfolio website. This allows visitors to view and interact with your website directly.
+- To view and interact with the website, please click on the URL link: https://djam88.github.io/djamels-portfolio/
 
 ## License
 - Open source licence.
 
 ## Contact
 - My personal email: djamelguenifi28@gmail.com
--Djam88/git hub
+- Djam88/git hub
 
 ```
